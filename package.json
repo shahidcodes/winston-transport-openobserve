@@ -1,10 +1,9 @@
 {
   "name": "winston-transport-openobserve",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Winston transport for openobserve.ai",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
   "keywords": [],
