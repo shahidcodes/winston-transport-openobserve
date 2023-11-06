@@ -1,12 +1,16 @@
 {
   "name": "winston-transport-openobserve",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Winston transport for openobserve.ai",
-  "main": "index.js",
+  "main": "dist/lib.js",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "winston",
+    "logging",
+    "openobserve"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -17,5 +21,8 @@
   },
   "dependencies": {
     "winston-transport": "^4.6.0"
-  }
+  },
+  "files": [
+    "dist/**/*"
+  ]
 }
