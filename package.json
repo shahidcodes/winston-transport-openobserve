@@ -1,6 +1,6 @@
 {
   "name": "winston-transport-openobserve",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Winston transport for openobserve.ai",
   "main": "dist/lib.js",
   "scripts": {
